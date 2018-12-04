@@ -4,10 +4,10 @@
 Football Dataset Analysis is a group project meant to study, analyse and extract information from the [kaggle football dataset](https://www.kaggle.com/secareanualin/football-events/home).
 
 
-### What's Kaggle?
+### What does Kaggle mean?
 Kaggle, according to [Wikipedia](https://en.wikipedia.org/wiki/Kaggle) "is an online community of data scientists and machine learners, owned by Google, Inc that allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges."
 
-### What is this Football Dataset Analysis?
+### What is Football Dataset Analysis project about?
 The project is aimed at studying the kaggle football dataset, to analyse, extract information from it and make predictions based on the data.
 
 The main goal is to find the weaknesses and strengths of the team and assess the ways of measurement and improvement of the team performance
@@ -56,9 +56,9 @@ We got the most effective events and capitalised on their characteristics in ord
 10. Detrmined the qualitites that make a player that make them crucial to the team's success
 
 
-# How can I get involved with the Football Dataset Analysis project?
+# How can I contribute to the Football Dataset Analysis project?
 
-## Quickest start
+## Steps to follow
 
 1. Fork the project to your respository
 4. Clone the project repository and run the project, refer to the "How to setup section to know how to do that".
@@ -74,17 +74,17 @@ Tools and librariesused for development;
 - Editor: [Jupyter Notebook](https://github.com/jupyter/notebook)
 - Programming language: [Python 3](https://www.python.org/download/releases/3.0/)
 - Libraries: 
-	1. [React](https://reactjs.org)
+	1. numpy
 	2. zipfile
-	3. numpy
+	3. warning
 	4. matplotlib
 	5. pandas
 	6. seaborn
 	7. sklearn
-	8. venn
-	9. warning
+	8. venn 
 
-## How to set up?
+## How to set up the enviroment?
+- Assuming you have python3 and all the dependencies installed.
 - Create a directory and change to that directory
 ```sh
   > mkdir Data analysis
