@@ -12,7 +12,7 @@ The project is aimed at studying the kaggle football dataset, to analyse, extrac
 
 The main goal is to find the weaknesses and strengths of the team and assess the ways of measurement and improvement of the team performance
 
-We got the most effective events and capitalised on their characteristics in order to achieve the main goal
+We got the most effective events and capitalised on their characteristics in order to achieve the set goal
 
 
 
@@ -22,7 +22,7 @@ We got the most effective events and capitalised on their characteristics in ord
 4. Shoots off target 
 5. Penalty against the team 
 6. Offsides
-7. Shot_place
+7. Shot place
 8. Too high
 9. High and wide
 10. Goals against the team
@@ -44,16 +44,16 @@ We got the most effective events and capitalised on their characteristics in ord
 
 **Below are the tasks we have accomplised:**
 
-1.  Determined the probability of the team winning in aleague 
+1.  Determined the probability of the team winning in a league 
 2.  Determined the best combination of  players and strategies to increase the probability of winning
 3.  Determined the players that make a great team based on features like attempts, strikes, assists, goals scored and so on
-4.  Predicted the highly paid player price from based on performance, age and teams in the league major needs.
-5.  Predicted cards both yellow and red served to a team and also determine the depending on the body-parts
-6.  Detrmined the effect on cards on the team's performance
+4.  Predicted the highly paid player based on performance in the teams and league at large.
+5.  Predicted cards both yellow and red served to a team 
+6.  Determined the effect of cards on the team's performance
 7.  Found the relationship between receiving cards in the first half and performance in the second half.
-8.  Determined the teams that are likely to attack from a given aflank 
+8.  Determined the teams that are likely to attack from a given flank 
 9.  Determined the correlation between strategies, ball possession and probabilility of winning.
-10. Detrmined the qualitites that make a player that make them crucial to the team's success
+10. Determined the qualitites that make a player crucial to the team's success
 
 
 # How can I contribute to the Football Dataset Analysis project?
@@ -61,7 +61,7 @@ We got the most effective events and capitalised on their characteristics in ord
 ## Steps to follow
 
 1. Fork the project to your respository
-4. Clone the project repository and run the project, refer to the "How to setup section to know how to do that".
+4. Clone the project repository and run the project, refer to the "How to setup section" to know how to do that.
 3. Study the project code, suggest changes, rectificiations and any inquiries you might have about the project
 5. To suggest these changes, you can either
 	1. Open an issue on the project where you highlight what you think needs to be changed and how you would like it to be after the change
@@ -82,6 +82,8 @@ Tools and librariesused for development;
 	6. seaborn
 	7. sklearn
 	8. venn 
+	9. pytorch
+
 
 ## How to set up the enviroment?
 - Assuming you have python3 and all the dependencies installed.
