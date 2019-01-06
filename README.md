@@ -10,9 +10,9 @@ Kaggle, according to [Wikipedia](https://en.wikipedia.org/wiki/Kaggle) "is an on
 ### What is Football Dataset Analysis project about?
 The project is aimed at studying the kaggle football dataset, to analyse, extract information from it and make predictions based on the data.
 
-The main goal is to find the weaknesses and strengths of the team and assess the ways of measurement and improvement of the team performance
+The main goal is to find the weaknesses and strengths of the team and assess the ways of measurement and improvement of the team performance.
 
-We got the most effective events and capitalised on their characteristics in order to achieve the set goal
+We got the most effective events and capitalised on their characteristics in order to achieve the set goal.
 
 
 
