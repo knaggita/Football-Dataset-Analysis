@@ -1,4 +1,4 @@
-# <img src="https://github.com/knaggita/Football-Dataset-Analysis/blob/master/logo.png" width="600" alt="Football Dataset Analysis project">
+# <img src="https://github.com/knaggita/Football-Dataset-Analysis/blob/master/Football_logo.png" width="400" alt="Football Dataset Analysis project">
 
 ## What is this project?
 Football Dataset Analysis is a group project meant to study, analyse and extract information from the [kaggle football dataset](https://www.kaggle.com/secareanualin/football-events/home).
